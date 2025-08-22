@@ -1,16 +1,19 @@
-# lifehub
+💡 LifeHub
+Purpose: A minimalist, AI-assisted daily companion that unifies habits, mood, tasks, and money tracking into one seamless mobile experience.
+Unique Value: One app replaces four (tasks, journal, habit tracker, expenses).
+AI-generated insights (e.g., “You overspend when stressed”).
+Offline-first with cloud sync → unlike bloated apps that need constant internet.
 
-A new Flutter project.
+Key Features (MVP):
 
-## Getting Started
+✅ Tasks & Habits – simple daily planner with streak tracking.
 
-This project is a starting point for a Flutter application.
+🧠 Mood & Journal – quick daily log with emojis & notes.
 
-A few resources to get you started if this is your first Flutter project:
+💰 Expense Tracker – fast entry with categories.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+📊 AI Insights – correlations (e.g., habits vs. expenses vs. mood).
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+🎨 Minimalist UI – clean, distraction-free.
+
+☁️ Offline-first with Sync – SQLite + Firebase backup
