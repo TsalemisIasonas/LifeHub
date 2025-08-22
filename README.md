@@ -1,4 +1,5 @@
-💡 LifeHub
+#💡 LifeHub
+
 Purpose: A minimalist, AI-assisted daily companion that unifies habits, mood, tasks, and money tracking into one seamless mobile experience.
 Unique Value: One app replaces four (tasks, journal, habit tracker, expenses).
 AI-generated insights (e.g., “You overspend when stressed”).
